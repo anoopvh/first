@@ -1,0 +1,21 @@
+Steps for Github checkin
+------------------------
+1. Create github account
+2. Create repository skill2pro)
+3. Download Gitbash
+   https://git-scm.com/downloads
+4. Start gitbash
+	
+5. git clone https://github.com/SurajRajappan/First_Repository.git
+	cd First_Repository/
+6. git init
+7. echo "test" > read.md
+8. echo "print (\" test python\")" > test.py
+9. git add read.md
+10. git add test.py
+11. git commit -m "first commit"
+12. git remote add origin https://github.com/SurajRajappan/First_Repository.git
+13. git push -u origin master
+14. Now check your git repsitory. You should see the two files.
+
+
